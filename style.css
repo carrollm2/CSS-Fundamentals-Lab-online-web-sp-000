@@ -29,12 +29,11 @@ figcaption {
   text-align: center;
 }
 
-/*section#featured-property {
+section#featured-property {
   text-align: center;
-}*/
+}
 
 section#featured-property p {
-  text-align: center;
   margin-left: auto;
   margin-right: auto;
   width: 800px;
