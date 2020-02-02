@@ -29,13 +29,13 @@ figcaption {
   text-align: center;
 }
 
-section#featured-property {
+/*section#featured-property {
   text-align: center;
-}
-
-/*section#featured-property p {
-  width: 800px;
 }*/
+
+section#featured-property p {
+  width: 800px;
+}
 
 section#details {
   display: block;
