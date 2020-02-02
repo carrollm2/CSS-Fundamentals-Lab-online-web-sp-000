@@ -16,12 +16,14 @@ img {
 }
 
 
-nav {
+/*nav {
   padding-left: 10px;
   padding-right: 10px;
-}
+}*/
 
 nav a {
+  padding-left: 10px;
+  padding-right: 10px;
   background: orange;
 }
 
