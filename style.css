@@ -24,3 +24,7 @@ nav {
 nav a {
   background: orange;
 }
+
+figcaption {
+  text-align: center;
+}
