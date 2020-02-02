@@ -37,6 +37,6 @@ section#featured-property p {
   width: 800px;
 }*/
 
-section#details div{
-  display: inline-block;
+section#details {
+  display: block;
 }
