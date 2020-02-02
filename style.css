@@ -29,7 +29,7 @@ figcaption {
   text-align: center;
 }
 
-section#featured-property p {
+section#featured-property p align="center"{
   width: 800px;
-  text-align: center;
+  /*text-align: center;*/
 }
